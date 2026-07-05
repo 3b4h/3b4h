@@ -24,7 +24,21 @@ module.exports = {
       color: "red",
     },
 
-    { key: "Databases", value: "MySQL · MongoDB", color: "red" },
+    { key: "Databases", value: "MySQL", color: "red" },
+
+    { key: "Systems", value: "Cisco · Ubiquiti · Hikvision", color: "red" },
+
+    {
+      key: "Certifications",
+      value: "Cisco Networking Fundamentals · Introduction to Cybersecurity",
+      color: "red",
+    },
+
+    {
+      key: "Networking",
+      value: "IPv4 · DHCP · DNS · VLANs · NAT",
+      color: "red",
+    },
 
     {
       key: "Tools",
