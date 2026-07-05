@@ -24,9 +24,13 @@ module.exports = {
       color: "red",
     },
 
-    { key: "Databases", value: "MySQL · MongoDB", color: "mauve" },
+    { key: "Databases", value: "MySQL · MongoDB", color: "red" },
 
-    { key: "Tools", value: "Nmap · NetCat · WireShark · Metasploit" },
+    {
+      key: "Tools",
+      value: "Nmap · NetCat · WireShark · Metasploit",
+      color: "red",
+    },
   ],
 
   options: {
