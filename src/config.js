@@ -5,28 +5,48 @@ module.exports = {
   info: [
     { key: "User", value: "3b4h", color: "red" },
     { key: "OS", value: "Debian · Arch Linux", color: "red" },
-    { key: "Editor", value: " VSCode · IntelliJ · Neovim · Zed", color: "red" },
+    { key: "Shell", value: "Bash · Zsh", color: "red" },
     {
-      key: "Interests",
-      value: "Programming · Networking · Cybersecurity",
+      key: "Editor",
+      value: "VSCode · IntelliJ IDEA · Neovim · Zed",
       color: "red",
     },
 
     {
       key: "Languages",
-      value: "Java · JavaScript · Bash ",
+      value: "Java · JavaScript · Bash",
       color: "red",
     },
 
     {
       key: "Frameworks",
-      value: "Springboot · React · Tailwind",
+      value: "Spring Boot · React · Tailwind CSS",
       color: "red",
     },
 
-    { key: "Databases", value: "MySQL", color: "red" },
+    {
+      key: "Databases",
+      value: "MySQL",
+      color: "red",
+    },
 
-    { key: "Systems", value: "Cisco · Ubiquiti · Hikvision", color: "red" },
+    {
+      key: "Networking",
+      value: "Cisco · Ubiquiti",
+      color: "red",
+    },
+
+    {
+      key: "Security Tools",
+      value: "Nmap · Netcat · Wireshark · Metasploit",
+      color: "red",
+    },
+
+    {
+      key: "Version Control",
+      value: "Git · GitHub",
+      color: "red",
+    },
 
     {
       key: "Certifications",
@@ -35,14 +55,8 @@ module.exports = {
     },
 
     {
-      key: "Networking",
-      value: "IPv4 · DHCP · DNS · VLANs · NAT",
-      color: "red",
-    },
-
-    {
-      key: "Tools",
-      value: "Nmap · NetCat · WireShark · Metasploit",
+      key: "Learning",
+      value: "CCNA · Routing · Offensive Security",
       color: "red",
     },
   ],
