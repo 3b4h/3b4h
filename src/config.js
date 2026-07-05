@@ -8,7 +8,7 @@ module.exports = {
     { key: "Editor", value: " VSCode · IntelliJ · Neovim · Zed", color: "red" },
     {
       key: "Interests",
-      value: "Programming · Networking · Cybersecurity · Linux",
+      value: "Programming · Networking · Cybersecurity",
       color: "red",
     },
 
