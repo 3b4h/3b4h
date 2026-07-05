@@ -48,30 +48,29 @@
   <text x="333.696" y="112" fill="#dc2626" class="f" font-weight="600" xml:space="preserve">Editor:</text>
   <text x="396.696" y="112" fill="#cdd6f4" class="f" xml:space="preserve">VSCode · IntelliJ · Neovim · Zed</text>
   <text x="333.696" y="131" fill="#dc2626" class="f" font-weight="600" xml:space="preserve">Interests:</text>
-  <text x="419.696" y="131" fill="#cdd6f4" class="f" xml:space="preserve">Programming · Networking · Cybersecurity ·</text>
-  <text x="419.696" y="150" fill="#cdd6f4" class="f" xml:space="preserve">Linux</text>
-  <text x="333.696" y="169" fill="#dc2626" class="f" font-weight="600" xml:space="preserve">Languages:</text>
-  <text x="419.696" y="169" fill="#cdd6f4" class="f" xml:space="preserve">Java · JavaScript · Bash </text>
-  <text x="333.696" y="188" fill="#dc2626" class="f" font-weight="600" xml:space="preserve">Frameworks:</text>
-  <text x="427.696" y="188" fill="#cdd6f4" class="f" xml:space="preserve">Springboot · React · Tailwind</text>
-  <text x="333.696" y="207" fill="#dc2626" class="f" font-weight="600" xml:space="preserve">Databases:</text>
-  <text x="419.696" y="207" fill="#cdd6f4" class="f" xml:space="preserve">MySQL · MongoDB</text>
-  <text x="333.696" y="226" fill="#dc2626" class="f" font-weight="600" xml:space="preserve">Tools:</text>
-  <text x="388.696" y="226" fill="#cdd6f4" class="f" xml:space="preserve">Nmap · NetCat · WireShark · Metasploit</text>
-  <rect x="333.69599999999997" y="251" width="18" height="18" fill="#454758"/>
-  <rect x="351.69599999999997" y="251" width="18" height="18" fill="#E590A8"/>
-  <rect x="369.69599999999997" y="251" width="18" height="18" fill="#B3E1A7"/>
-  <rect x="387.69599999999997" y="251" width="18" height="18" fill="#F5E3B5"/>
-  <rect x="405.69599999999997" y="251" width="18" height="18" fill="#92B3F4"/>
-  <rect x="423.69599999999997" y="251" width="18" height="18" fill="#EDC4E5"/>
-  <rect x="441.69599999999997" y="251" width="18" height="18" fill="#A5E0D5"/>
-  <rect x="459.69599999999997" y="251" width="18" height="18" fill="#A7ADC6"/>
-  <rect x="333.69599999999997" y="269" width="18" height="18" fill="#595B6E"/>
-  <rect x="351.69599999999997" y="269" width="18" height="18" fill="#E37E99"/>
-  <rect x="369.69599999999997" y="269" width="18" height="18" fill="#9BD692"/>
-  <rect x="387.69599999999997" y="269" width="18" height="18" fill="#E7D499"/>
-  <rect x="405.69599999999997" y="269" width="18" height="18" fill="#7FA7F6"/>
-  <rect x="423.69599999999997" y="269" width="18" height="18" fill="#E8B1DB"/>
-  <rect x="441.69599999999997" y="269" width="18" height="18" fill="#87D4CA"/>
-  <rect x="459.69599999999997" y="269" width="18" height="18" fill="#BBC2DC"/>
+  <text x="419.696" y="131" fill="#cdd6f4" class="f" xml:space="preserve">Programming · Networking · Cybersecurity</text>
+  <text x="333.696" y="150" fill="#dc2626" class="f" font-weight="600" xml:space="preserve">Languages:</text>
+  <text x="419.696" y="150" fill="#cdd6f4" class="f" xml:space="preserve">Java · JavaScript · Bash </text>
+  <text x="333.696" y="169" fill="#dc2626" class="f" font-weight="600" xml:space="preserve">Frameworks:</text>
+  <text x="427.696" y="169" fill="#cdd6f4" class="f" xml:space="preserve">Springboot · React · Tailwind</text>
+  <text x="333.696" y="188" fill="#dc2626" class="f" font-weight="600" xml:space="preserve">Databases:</text>
+  <text x="419.696" y="188" fill="#cdd6f4" class="f" xml:space="preserve">MySQL · MongoDB</text>
+  <text x="333.696" y="207" fill="#dc2626" class="f" font-weight="600" xml:space="preserve">Tools:</text>
+  <text x="388.696" y="207" fill="#cdd6f4" class="f" xml:space="preserve">Nmap · NetCat · WireShark · Metasploit</text>
+  <rect x="333.69599999999997" y="232" width="18" height="18" fill="#454758"/>
+  <rect x="351.69599999999997" y="232" width="18" height="18" fill="#E590A8"/>
+  <rect x="369.69599999999997" y="232" width="18" height="18" fill="#B3E1A7"/>
+  <rect x="387.69599999999997" y="232" width="18" height="18" fill="#F5E3B5"/>
+  <rect x="405.69599999999997" y="232" width="18" height="18" fill="#92B3F4"/>
+  <rect x="423.69599999999997" y="232" width="18" height="18" fill="#EDC4E5"/>
+  <rect x="441.69599999999997" y="232" width="18" height="18" fill="#A5E0D5"/>
+  <rect x="459.69599999999997" y="232" width="18" height="18" fill="#A7ADC6"/>
+  <rect x="333.69599999999997" y="250" width="18" height="18" fill="#595B6E"/>
+  <rect x="351.69599999999997" y="250" width="18" height="18" fill="#E37E99"/>
+  <rect x="369.69599999999997" y="250" width="18" height="18" fill="#9BD692"/>
+  <rect x="387.69599999999997" y="250" width="18" height="18" fill="#E7D499"/>
+  <rect x="405.69599999999997" y="250" width="18" height="18" fill="#7FA7F6"/>
+  <rect x="423.69599999999997" y="250" width="18" height="18" fill="#E8B1DB"/>
+  <rect x="441.69599999999997" y="250" width="18" height="18" fill="#87D4CA"/>
+  <rect x="459.69599999999997" y="250" width="18" height="18" fill="#BBC2DC"/>
 </svg>
